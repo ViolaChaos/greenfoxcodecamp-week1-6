@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(255, 165, 0);
+}
+
+h2 {
+  color: rgb(128, 0, 128);
+}
+
+#but-it,
+#can-go,
+#deeper {
+  color: rgb(255, 192, 203);
+}
+
+
+#and {
+  text-decoration: underline;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
